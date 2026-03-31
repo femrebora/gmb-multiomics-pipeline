@@ -39,7 +39,7 @@ Requires Python 3.10 or newer.
 
 ```bash
 git clone https://github.com/femrebora/gbm-multiomics-pipeline.git
-cd gbm-multiomics
+cd gbm-multiomics-pipeline
 pip install .
 ```
 
