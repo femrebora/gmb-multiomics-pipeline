@@ -38,7 +38,7 @@ Built as an analysis-focused companion to [tcga-gdc-downloader](https://github.c
 Requires Python 3.10 or newer.
 
 ```bash
-git clone https://github.com/femrebora/gbm-multiomics.git
+git clone https://github.com/femrebora/gbm-multiomics-pipeline.git
 cd gbm-multiomics
 pip install .
 ```
